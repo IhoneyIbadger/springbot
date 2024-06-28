@@ -10,4 +10,5 @@ public class ServiceRequestController {
     public ServiceRequest getServiceRequest() {
         return new ServiceRequest("Louis", "M.", "louis101@example.com", "Diggah brauche nen Springboot service. Mach schnell!");
     }
+
 }
